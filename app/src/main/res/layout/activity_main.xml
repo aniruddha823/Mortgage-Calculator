@@ -26,7 +26,7 @@
             android:id="@+id/months"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Months"
+            android:hint="Period (years)"
             android:maxLines="1"
             android:singleLine="true" />
     </android.support.design.widget.TextInputLayout>
@@ -92,7 +92,7 @@
             android:id="@+id/apr"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="APR"
+            android:hint="APR (%)"
             android:maxLines="1"
             android:singleLine="true" />
     </android.support.design.widget.TextInputLayout>
